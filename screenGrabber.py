@@ -2,8 +2,6 @@ import pyautogui
 import time
 from datetime import datetime
 
-
-
 user = 'prashantJha'
 
 while True:
